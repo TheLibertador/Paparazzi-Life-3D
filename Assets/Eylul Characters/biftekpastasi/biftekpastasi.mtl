@@ -1,0 +1,62 @@
+# Exported from Fuse 1.3.0
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd biftekpastasi_Hair_diffuse.png
+map_Ks biftekpastasi_Hair_specular.png
+bump biftekpastasi_Hair_normal.png
+map_Ns biftekpastasi_Hair_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd biftekpastasi_Body_diffuse.png
+map_Ks biftekpastasi_Body_specular.png
+bump biftekpastasi_Body_normal.png
+map_Ns biftekpastasi_Body_gloss.png
+
+newmtl Eyewear
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd biftekpastasi_Eyewear_diffuse.png
+map_Ks biftekpastasi_Eyewear_specular.png
+bump biftekpastasi_Eyewear_normal.png
+map_Ns biftekpastasi_Eyewear_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd biftekpastasi_Shoes_diffuse.png
+map_Ks biftekpastasi_Shoes_specular.png
+bump biftekpastasi_Shoes_normal.png
+map_Ns biftekpastasi_Shoes_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd biftekpastasi_Bottom_diffuse.png
+map_Ks biftekpastasi_Bottom_specular.png
+bump biftekpastasi_Bottom_normal.png
+map_Ns biftekpastasi_Bottom_gloss.png
+

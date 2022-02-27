@@ -1,0 +1,62 @@
+# Exported from Fuse 1.3.0
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd sexykiz_Top_diffuse.png
+map_Ks sexykiz_Top_specular.png
+bump sexykiz_Top_normal.png
+map_Ns sexykiz_Top_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd sexykiz_Body_diffuse.png
+map_Ks sexykiz_Body_specular.png
+bump sexykiz_Body_normal.png
+map_Ns sexykiz_Body_gloss.png
+
+newmtl Glove
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd sexykiz_Glove_diffuse.png
+map_Ks sexykiz_Glove_specular.png
+bump sexykiz_Glove_normal.png
+map_Ns sexykiz_Glove_gloss.png
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd sexykiz_Hair_diffuse.png
+map_Ks sexykiz_Hair_specular.png
+bump sexykiz_Hair_normal.png
+map_Ns sexykiz_Hair_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd sexykiz_Shoes_diffuse.png
+map_Ks sexykiz_Shoes_specular.png
+bump sexykiz_Shoes_normal.png
+map_Ns sexykiz_Shoes_gloss.png
+

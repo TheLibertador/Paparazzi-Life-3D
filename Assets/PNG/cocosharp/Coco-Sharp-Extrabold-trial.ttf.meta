@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: a6235487fc50a844ba39c593dedc22e7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CocoSharp Trial
+  fontNames:
+  - CocoSharp Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0248cc03383dac443843f7338e733349, type: 3}
+  - {fileID: 12800000, guid: 15f3e2f44d2077e4ca9387e050ed036a, type: 3}
+  - {fileID: 12800000, guid: b13ceef401997884698c49899dfb4a85, type: 3}
+  - {fileID: 12800000, guid: e07e7105d08fb5b40b701b599561ee69, type: 3}
+  - {fileID: 12800000, guid: f43f00f5675c0e148a939e187466fe0a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

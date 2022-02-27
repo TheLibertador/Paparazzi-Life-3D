@@ -1,0 +1,62 @@
+# Exported from Fuse 1.3.0
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd yakisikliadam_Top_diffuse.png
+map_Ks yakisikliadam_Top_specular.png
+bump yakisikliadam_Top_normal.png
+map_Ns yakisikliadam_Top_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd yakisikliadam_Body_diffuse.png
+map_Ks yakisikliadam_Body_specular.png
+bump yakisikliadam_Body_normal.png
+map_Ns yakisikliadam_Body_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd yakisikliadam_Bottom_diffuse.png
+map_Ks yakisikliadam_Bottom_specular.png
+bump yakisikliadam_Bottom_normal.png
+map_Ns yakisikliadam_Bottom_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd yakisikliadam_Shoes_diffuse.png
+map_Ks yakisikliadam_Shoes_specular.png
+bump yakisikliadam_Shoes_normal.png
+map_Ns yakisikliadam_Shoes_gloss.png
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd yakisikliadam_Hair_diffuse.png
+map_Ks yakisikliadam_Hair_specular.png
+bump yakisikliadam_Hair_normal.png
+map_Ns yakisikliadam_Hair_gloss.png
+
